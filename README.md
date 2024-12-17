@@ -5,7 +5,9 @@ Uma calculadora simples com interface gráfica desenvolvida em Python utilizando
 ## Funcionalidades
 
 - Operações básicas: adição, subtração, multiplicação e divisão.
+- Operações avançadas: Raiz quadrada e potencia quadrada
 - Botão de limpar (C).
+- Alterar tema de claro para escuro e vice e versa
 - Interface amigável e responsiva.
 
 ## Pré-requisitos
@@ -16,5 +18,5 @@ Uma calculadora simples com interface gráfica desenvolvida em Python utilizando
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/CalculadoraTk.git
-   cd CalculadoraTk
+   git clone https://github.com/thuzada/Calculadora-Simples-em-Python-com-GUI-Integrada.git
+   cd Calculadora-Simples-em-Python-com-GUI-Integrada
